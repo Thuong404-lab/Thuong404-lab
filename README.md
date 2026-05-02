@@ -10,25 +10,11 @@
 
 ---
 
-##  About Me
-
-* Software Engineering student focusing on backend development.
-
-
----
-
 ##  Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,html,css,js,git"  />
 </p>
-
----
-
-##  Project
-
-**Not yet**
-
 
 ---
 
