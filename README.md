@@ -1,35 +1,35 @@
-<h1 align="center">Hi 👋, I'm [Nguyễn Tiến Thương]</h1>
+<h1 align="center">Hi 👋, I'm Nguyễn Tiến Thương</h1>
 
 <p align="center">
   <b>Software Engineering Student • Back-End Developer</b>
 </p>
 
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/9919?s=200&v=4" width="100"/>
+  <img src="https://avatars.githubusercontent.com/u/9919?s=200&v=4" width="50"/>
 </p>
 
 ---
 
-## 🚀 About Me
+##  About Me
 
 * 🎓 Software Engineering student
 * 💻 Web Development
-* ⚡ Love clean UI
+
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,html,css,js,git" />
+  <img src="https://skillicons.dev/icons?i=java,html,css,js,git" width="50" />
 </p>
 
 ---
 
-## 🌟 Project
+##  Project
 
-**Photobooth Web App**
-👉 https://your-link.vercel.app
+**Not yet**
+
 
 ---
 
