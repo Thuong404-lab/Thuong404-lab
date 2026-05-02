@@ -1,19 +1,18 @@
-<h1 align="center">Hi 👋, I'm Nguyễn Tiến Thương</h1>
+<h1 align="center">Hi, I'm Nguyen Tien Thuong</h1>
 
 <p align="center">
   <b>Software Engineering Student • Back-End Developer</b>
 </p>
 
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/9919?s=200&v=4" width="50"/>
+  <img src="https://avatars.githubusercontent.com/u/9919?s=200&v=4" />
 </p>
 
 ---
 
 ##  About Me
 
-* 🎓 Software Engineering student
-* 💻 Web Development
+* Software Engineering student focusing on backend development.
 
 
 ---
