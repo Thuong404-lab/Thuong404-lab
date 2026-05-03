@@ -15,8 +15,10 @@
 </p>
 
 ---
-
-## 🛠 Technical Skills
+ About Me
+I’m a backend developer with a primary focus on Java. I specialize in system design, building reliable APIs, and optimizing performance. I value clean code, scalability, and continuously strive to improve products through hands-on development experience.
+---
+## Technical Skills
 
 ### 💻 Frontend
 ![HTML5](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5)
