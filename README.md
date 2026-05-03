@@ -15,8 +15,8 @@
 </p>
 
 ---
- About Me
-I’m a backend developer with a primary focus on Java. I specialize in system design, building reliable APIs, and optimizing performance. I value clean code, scalability, and continuously strive to improve products through hands-on development experience.
+## About Me
+<h3> I’m a backend developer with a primary focus on Java. I specialize in system design, building reliable APIs, and optimizing performance. I value clean code, scalability, and continuously strive to improve products through hands-on development experience. </h3>
 ---
 ## Technical Skills
 
