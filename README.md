@@ -8,7 +8,7 @@
 
 <p align="center">
   <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="200"/>
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Thuong404-lab&show_icons=true&theme=tokyonight"/>
 </p>
 
 
