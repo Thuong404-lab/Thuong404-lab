@@ -7,6 +7,12 @@
   <li>Interested in clean code, system design, and performance optimization</li>
 </ul>
 
+<h2>Tech Stack</h2>
+
+<p>
+  <img src="https://skillicons.dev/icons?i=java,spring,mysql,html,css,js,bootstrap,git,github,postman&theme=dark" alt="Tech Stack"/>
+</p>
+
 <h2>Contact me</h2>
 
 <p>
