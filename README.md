@@ -1,46 +1,28 @@
-<h1 align="center">Hi, I'm Nguyen Tien Thuong</h1>
+<h1>Hi there, I am Nguyen Tien Thuong</h1>
 
-<p align="center">
-  <b>Software Engineering Student • Back-End Developer</b>
+<ul>
+  <li>Currently a Software Engineering student at FPT University</li>
+  <li>Focusing on Java Back-End Development</li>
+  <li>Building reliable and scalable RESTful APIs with Spring Boot</li>
+  <li>Interested in clean code, system design, and performance optimization</li>
+</ul>
+
+<h2>Contact me</h2>
+
+<p>
+  <a href="mailto:nhoc2323@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://www.linkedin.com/in/ti%E1%BA%BFn-th%C6%B0%C6%A1ng-nguy%E1%BB%85n-645aa0346/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://thuongnt-ktpm.github.io/portfoliothuong/">
+    <img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
+  </a>
+  <a href="https://www.tiktok.com/@tin.thuong49">
+    <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok"/>
+  </a>
+  <a href="https://github.com/Thuong404-lab">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
 </p>
-
-
-
-<p align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="200"/>
-
-</p>
-<p align="center">
-   <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&lines=Backend+Developer;Java+%7C+Spring+Boot;RESTful+API+Builder" />
-</p>
-
----
-## About Me
-I’m a backend developer with a primary focus on Java. I specialize in system design, building reliable APIs, and optimizing performance. I value clean code, scalability, and continuously strive to improve products through hands-on development experience.
-
----
-## Technical Skills
-
-### 💻 Frontend
-![HTML5](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3)
-![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-000000?style=for-the-badge&logo=bootstrap)
-
-### ⚙️ Backend
-![Java](https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=java)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-000000?style=for-the-badge&logo=springboot)
-![MySQL](https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql)
-![SQL Server](https://img.shields.io/badge/SQL_Server-000000?style=for-the-badge&logo=microsoftsqlserver)
-
-### 🧰 Tools & Platforms
-![Postman](https://img.shields.io/badge/Postman-000000?style=for-the-badge&logo=postman)
-![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github)
-![GitLab](https://img.shields.io/badge/GitLab-000000?style=for-the-badge&logo=gitlab)
----
-
-## 📫 Contact
-
-* Email: [nhoc2323@gmail.com](nhoc2323@gmail.com)
-* GitHub: https://github.com/Thuong404-lab
