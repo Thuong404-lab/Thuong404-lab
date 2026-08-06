@@ -22,7 +22,7 @@
   <a href="https://www.linkedin.com/in/ti%E1%BA%BFn-th%C6%B0%C6%A1ng-nguy%E1%BB%85n-645aa0346/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://thuongnt-ktpm.github.io/portfoliothuong/">
+  <a href="https://portfolio-thuong.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
   </a>
   <a href="https://www.tiktok.com/@tin.thuong49">
