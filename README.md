@@ -15,10 +15,6 @@
   <li>🌐 Creator of <a href="https://thuong-eng.vercel.app/">ThuongEng</a></li>
 </ul>
 
-<h3>🛠️ Tech Stack</h3>
-
-<img src="https://skillicons.dev/icons?i=java,spring,js,ts,nextjs,postgres,supabase,git,docker" />
-
 <hr/>
 
 <h2>🚀 Featured Project — ThuongEng</h2>
