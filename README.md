@@ -1,10 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Nguyen Tien Thuong</h1>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=F97316&center=true&vCenter=true&width=600&lines=Software+Engineering+Student;Java+Backend+Developer;Creator+of+ThuongEng;Always+Learning+New+Things!" alt="Typing SVG"/>
-</p>
-
 <h3>👨‍💻 About Me</h3>
 
 <ul>
